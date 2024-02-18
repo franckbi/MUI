@@ -1,2 +1,2 @@
 # MUI
-Playing around with MUI
+Just Playing around with MUI
